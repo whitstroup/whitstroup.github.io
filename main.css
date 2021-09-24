@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
+
+#myid{
+    color:teal;
+}
+.myclass{
+    color: yellow;
+}
+img{
+    width: 100%;
+}
+p{
+    color:tomato;
+}
+.bottom-space{
+    height: 100%;
+}
+.bg-image {
+
+
+    
+  float: right; 
+   
+    background-image: url("https://cdn.pixabay.com/photo/2019/02/05/02/27/castle-3976073__340.jpg");
+
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+#castleimage{
+    margin-bottom: 5%;
+}
+#trivia{
+    color: blue;
+    
+    
+}
+#trivia-bg{
+ 
+}
+
+
+.whit{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
